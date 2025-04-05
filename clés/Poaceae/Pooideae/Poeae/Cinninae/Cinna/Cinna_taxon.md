@@ -1,1 +1,2 @@
-Ceci est un test
+
+Graminées pérennes de moyenne à grande taille. Inflorescence en panicule allant de dressée à penchée, souvent fortement courbée et retombante. Épillets uniflores, comprimés latéralement et environ 3 à 4 fois plus longs que larges. Les épillets portent une très courte arête originant légèrement sous l'extrémité des lemma. Nos deux espèces sont généralement associées aux milieux forestiers mésiques ou humides ou aux milieux riverains. _Cinna arundinacea_ est surtout trouvé dans les milieux riches du sud du Québec, alors que _C. latifolia_ est plus largement répandu.
