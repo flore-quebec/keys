@@ -1,145 +1,184 @@
+Clé générale
 
-1. Feuilles insérées le long de la tige. 3
+1. Feuilles insérées le long de la tige Clé A
 
-1'. Feuilles toutes basales. 2
+1'. Feuilles toutes basales 2
 
-2. Stolons présents (sauf chez V. renifolia à fleurs blanches); fleurs blanches ou
-violettes. 10
+2. Apex du style en forme de crochet ( ); ovaire et capsules densément pubescents. Stolons vivaces,
+bruns, coriaces et pubescents. Espèce introduite fréquente dans les pelouses espèce Viola odorata
 
-2'. Stolons absents; fleurs jaunes, bleues ou violettes (parfois blanches ou tachetées chez V. communis). 16
+2'. Apex du style épaissi ( ); ovaire et capsules glabres (ou pubescentes chez V. affinis). Stolons
+absents, si présents, alors blanc-verdâtre, turgides et grêles, glabres. Espèces indigènes ou introduites 3
 
-3. Fleurs jaunes. 4
+3. Fleurs jaunes; feuilles et pétioles se couchant rapidement à plat sur le sol après la floraison des fleurs
+chasmogames; limbes dépassant souvent 7 cm de long, largement ovés ou presque orbiculaires, à base
+cordée avec un sinus étroit (moins de 2 mm à la base, lobe se chevauchant); lobes basaux représentant
+moins de 1/7 de la longueur du limbe espèce Viola rotundifolia
 
-3'. Fleurs blanches, mauves ou multicolores. 5
+3'. Fleurs bleues, violettes, pourpres ou blanches; feuilles avec une combinaison différente de caractères. 4
 
-4. Plante avec 2 tiges et plus, généralement décombantes à la base lors de la floraison des fleurs
+4. Pétale éperonné veiné de pourpre foncé; fleurs blanches (ou violet très pâle chez V. palustris). Stolons
+présents (sauf chez V. renifolia à fleurs blanches) Clé B
+
+4'. Pétale éperonné veiné de violet pâle ou foncé, jamais pourpre; fleurs bleues, pourpres ou violettes
+(parfois blanches ou tachetées chez V. communis). Stolons absents Clé C
+
+Clé A - Violettes avec des feuilles insérées sur la tige
+
+1. Fleurs jaunes 2
+
+1'. Fleurs blanches, bleues, violettes, ou multicolores 3
+
+2. Plante avec 2 tiges et plus, généralement décombantes à la base lors de la floraison des fleurs
 chasmogames; feuilles basales 2 et plus; feuilles caulinaires distribuées sur toute la longueur des tiges;
-feuilles garnies de courts poils d'environ 0.2 mm sur la face
-abaxiale. espèce Viola eriocarpa
+feuilles garnies de courts poils d’environ 0,2 mm sur la face abaxiale espèce Viola eriocarpa
 
-4'. Plante avec 1 à 2 tiges, érigées durant toute la saison; feuilles basales absentes ou solitaire; feuilles
-caulinaires restreintes au ¼ supérieur des tiges; feuilles garnies de poils de ≥1 mm sur la face abaxiale. espèce Viola pubescens
+2'. Plante avec 1 à 2 tiges, érigées durant toute la saison; feuilles basales absentes ou solitaire; feuilles
+caulinaires restreintes au ¼ supérieur des tiges; feuilles garnies de poils de ≥1 mm sur la face abaxiale espèce Viola pubescens
 
-5. Fleurs blanches devenant rose pâle, à gorge jaune; feuilles caulinaires médianes longuement
-acuminées. espèce Viola canadensis
+3. Fleurs blanches devenant rose pâle, à gorge jaune; feuilles caulinaires médianes longuement
+acuminées espèce Viola canadensis
 
-5'. Fleurs bleu pâle, violettes, pourpres ou multicolores; feuilles caulinaire médianes à apex aigu ou
-obtus. 6
+3'. Fleurs bleues, violettes, ou multicolores; feuilles caulinaire médianes à apex aigu ou obtus 4
 
-6. Corolle fortement aplatie frontalement; pétales crème ou bleu pâle à violets, rouges à oranges ou
-multicolores à gorge jaune; feuilles généralement lobées. Naturalisées. 7
+4. Corolle fortement aplatie frontalement; pétales crème ou bleu pâle à violets, rouges à oranges ou
+multicolores à gorge jaune; feuilles généralement lobées. Naturalisées 5
 
-6'. Corolle non fortement aplatie frontalement; pétales bleu pâle ou foncé à violets; feuilles non lobées.
-Espèces indigènes. 8
+4'. Corolle non fortement aplatie frontalement; pétales bleu pâle ou foncé à violets; feuilles non lobées.
+Espèces indigènes 7
 
-7. Pétales plus courts que les sépales ou les dépassant à peine; pétales supérieurs crèmes; sépales
-dissimulant presque ou entièrement la capsule. espèce Viola arvensis
+Section Espèces naturalisées
 
-7'. Pétales dépassant largement les sépales ; pétales supérieurs généralement teintés ou complètement
-mauves ; sépales ne dissimulant pas la capsule. espèce Viola tricolor
+5. Pétales plus courts que les sépales ou les dépassant à peine; pétales supérieurs crème; sépales
+dissimulant presque ou entièrement la capsule espèce Viola arvensis
 
-8. Éperon 10-15 mm; pétales glabres. Rare, extrême sud-ouest du Québec. espèce Viola rostrata
+5'. Pétales dépassant largement les sépales; pétales supérieurs généralement teintés ou complètement
+mauves; sépales ne dissimulant pas la capsule 6
 
-8'. Éperon 4-8 mm; pétales pubescents. Espèces largement répandues au Québec. 9
+6. Fleurs atteignant 1,5 cm de long; corolle généralement avec les 3 pétales inférieurs blanc crème ou
+jaunes, et les 2 pétales supérieurs violets, rouge-violet, pourpres ou pourpres-noirs au moins dans la moitié
+distale; espèce largement cultivée et échappée espèce Viola tricolor
 
-9. Feuilles, tiges et pédoncules pubérulents; stipules fortement laciniés; fleurs généralement bleu
-foncé. espèce Viola adunca
+6'. Fleurs de plus de 1,5 cm de long; tous les pétales sont diversement colorés, souvent avec une large
+bordure noire; hybride persistant rarement longtemps après avoir été planté espèce Viola × wittrockiana
 
-9'. Feuilles glabres ou avec quelques poils apprimés sur la face adaxiale; stipules lâchement lacérées;
-fleurs généralement bleu pâle. espèce Viola labradorica
+Section Espèces indigènes
 
-10. Fleurs violettes, jaune soufre ou blanches; apex du style en forme de crochet; ovaire et capsules
-pubescents. Espèce introduite fréquente dans les pelouses. espèce Viola odorata
+7. Éperon 10-15 mm de long; pétales glabres. Rare, extrême sud-ouest du Québec espèce Viola rostrata
 
-10'. Fleurs blanches à rose pâle; apex du style élargi; capsules glabres. Indigène. 11
+7'. Éperon 4-8 mm de long; pétales pubescents. Espèces largement répandues au Québec 8
 
-11. Feuilles à limbe lancéolé, 3-8x plus long que large. espèce Viola lanceolata
+8. Feuilles, tiges et pédoncules pubérulents; fleurs généralement bleu foncé espèce Viola adunca var. adunca
 
-11'. Feuilles à limbe réniforme ou largement ové, 0.8-1.2x plus long que large. 12
+8'. Feuilles glabres ou avec quelques poils apprimés sur la face adaxiale; fleurs violet pâle espèce Viola labradorica
 
-12. Plante dépourvue de stolons; feuilles divergentes et prostrées au sol. espèce Viola renifolia
+Clé B - Violettes acaules et stolonifères à pétale éperonné veiné de pourpre
 
-12'. Plante stolonifère; feuilles érigées. 13
+1. Feuilles à limbe lancéolé, 3-8x plus long que large espèce Viola lanceolata
 
-13. Fleurs teintées de rose; feuilles et fleurs insérées de façon alterne seulement près de l'apex des stolons.
-Taxon arctique-alpin. espèce Viola palustris
+1'. Feuilles à limbe réniforme ou largement ové, 0.8-1.2x plus long que large 2
 
-13'. Fleurs blanches; feuilles et fleurs insérées en rosettes qui sont réparties tout le long du stolon. Espèces
-non strictement arctique-alpines. 14
+2. Fleurs teintées de rose ou de violet pâle, 10-16 mm de long; stipules des années précédentes
+persistantes, brun foncé et contrastant avec le rhizome. Taxon arctique-alpin espèce Viola palustris
 
-14. Limbe des feuilles pubescent sur au moins une des faces; capsules des fleurs chasmogames fortement
-tachetées de pourpre. 15
+2'. Fleurs blanches; 6-10 mm de long; stipules se désagrégeant au courant de l’année de croissance, pâles
+et contrastant faiblement avec le rhizome. 3
 
-14'. Limbes des feuilles glabres sur les deux faces; capsules des fleurs chasmogames vertes. espèce Viola minuscula
+Section Espèces non strictement arctique-alpines
 
-15. Feuilles à apex aigu, glabres au centre du limbe (pubescence restreinte aux lobes basaux sur la face
-adaxiale); pétioles teintés de rouge et presque glabres; pétales latéraux généralement
-glabres. espèce Viola blanda
+3. Plante sans stolons; limbe des feuilles souvent plus large que long, à apex arrondi, feuilles largement
+étalées ou plus souvent prostrées sur le substrat; pétales latéraux glabres (rarement avec quelques poils).
+Capsule cléistogame tachetée de pourpre, portée sur un court pédoncule prostré; graines brun-orange à
+brunes espèce Viola renifolia
 
-15'. Feuilles à apex obtus, à pubescence éparse ou dense couvrant au moins une des faces; pétioles verts et
-pubescents; pétales latéraux pubescent. espèce Viola incognita
+3'. Plante produisant à la fin du printemps des stolons superficiels ou légèrement enfouis; limbe des
+feuille aussi long ou plus long que large (parfois plus large que long chez V. incognita), apex arrondi ou
+aigu, feuilles étalées; pétales latéraux glabres ou poilus; capsule cléistogame non tachetée portée sur un
+pédoncule dressé ou alors tachetée de pourpre sur un pédoncule prostré; graines de couleur fauve ou brun
+moyen à foncé ou brun noirâtre 4
 
-16. Fleurs jaunes ; feuilles et pétioles se couchant rapidement à plat sur le sol après la floraison des fleurs
-chasmogames ; limbes largement ovés ou presque orbiculaires, à base étroitement cordée avec un sinus
-étroit (moins de 2 mm à la base) ; lobes basaux représentant moins de 1/7 de la longueur du limbe;
-floraison très précoce (avril-mai). espèce Viola rotundifolia
+4. Limbe strictement glabre (les pétioles peuvent être glabres ou pubescents), orbiculaires, généralement
+largement arrondis à l'apex, marges subentières à légèrement crénelées; capsules cléistogames vertes, non
+tachetées, portées sur des pédoncules dressés; graines de 0,8-1,4× 0,7-0,8 mm, brun olive moyen à foncé
+ou noir brunâtre, avec de minuscules taches noires espèce Viola minuscula
 
-16'. Fleurs bleues, violettes ou mauves ; feuilles et pétioles généralement érigés après la floraison des
-fleurs chasmogames ; limbes de formes et de bases variées, si cordées, sinus élargi (plus de 2 mm à la
-base); lobes basaux 1/6 ou plus de la longueur du limbe; floraison plus tardive (mai-juin). 17
+4'. Limbe pubescent sur une ou les deux faces, au moins quelques feuilles nettement allongées (plus
+grande dimension au moins 1.2 fois plus grande que leur plus courte dimension), apex obtus à aigu
+(rarement acuminé), marges avec des dents plus apparentes; capsules cléistogames avec de fines taches
+pourpres denses, sur des pédoncules prostrés à arqués; graines 1,2-2,2× 0,7-1,3 mm, brunes ou brunnoirâtre, non tachetées 5
 
-17. Feuilles profondément lobées. espèce Viola egglestonii
+5. Feuilles glabres à l'exception de poils apprimés épars sur la surface supérieure du limbe près des
+marges; les plus grands limbes ont des lobes basaux proportionnellement courts, 1/4 de la longueur totale
+du limbe, sinus étroit avec bords intérieurs des lobes basaux se touchant ou se chevauchant en nature, apex
+aigu, marges légèrement crénelées; pédoncules glabres; pétioles et pédoncules communément teintés ou
+tachetés de rouge; tous les pétales glabres; capsules cléistogames 6.5-8 mm de long; graines 1,2-1,3× 0,7-
+0,8 mm, brun-noir; espèce du sud du Québec, associée aux Appalaches espèce Viola blanda
 
-17'. Feuilles peu ou non-divisées. 18
+5'. Pétioles et/ou une ou les deux faces du limbe faiblement à densément hirsutes; les plus grands limbes
+ont des lobes basaux proportionnellement plus longs, (1/4-)1/3 de la longueur totale du limbe, sinus large
+avec lobes basaux bien séparés ou divergents en nature, apex typiquement obtus à arrondi, marges avec
+des dents peu proéminentes mais à pointe aigüe (vérifier au point le plus large de la feuille); pédoncules
+glabres à hirsutes; pétioles et pédoncules non teintés ou tachetés de rouge; pétales latéraux barbus;
+capsules cléistogames de 7-14 mm de long; graines 1,6-2,2×1,0-1,3 mm, brun clair à moyen; espèce
+largement répandue au Québec espèce Viola incognita
 
-18. Feuilles à base subtronquée, subcordée ou hastée; limbe des feuilles nettement allongé, étroitement
+Clé C - Violettes acaules à fleurs violettes et sans stolons
+
+1. Feuilles profondément lobées espèce Viola egglestonii
+
+1'. Feuilles peu ou non-divisées 2
+
+2. Feuilles à base subtronquée, subcordée ou hastée; limbe des feuilles nettement allongé, étroitement
 ovale à elliptique, souvent avec 2-3 paires de dents beaucoup plus grosses que les autres à la base; espèces
-rares. 19
+rares poussant sur le sable 3
 
-18'. Feuilles à base cordée, limbe des feuilles réniforme, ovale ou triangulaire, dents toutes de la même
-taille; espèces rares et communes. 20
+2'. Feuilles à base cordée, limbe des feuilles réniforme, ovale ou triangulaire, dents toutes de la même
+taille; espèces rares et communes, non restreintes aux milieux sableux 4
 
-19. Feuilles prostrées au sol durant la floraison des fleurs chasmogames; deux faces du limbe et pétiole
-densément hirtelleux. espèce Viola fimbriatula
+Section Espèces rares poussant sur le sable
 
-19'. Feuilles érigées durant la floraison des fleurs chasmogames, limbe glabre ou hirtelleux seulement près
-des marges sur la face supérieure, pétiole glabre ou pubescent dans la partie distale. espèce Viola sagittata
+3. Feuilles prostrées au sol durant la floraison des fleurs chasmogames; deux faces du limbe et pétiole
+densément hirtelleux espèce Viola fimbriatula
 
-20. Pétales glabres; généralement quelques feuilles avec lobes basaux se chevauchant. espèce Viola selkirkii
+3'. Feuilles érigées durant la floraison des fleurs chasmogames, limbe glabre ou hirtelleux seulement près
+des marges sur la face supérieure, pétiole glabre ou pubescent dans la partie distale espèce Viola sagittata
 
-20'. Pétales (au moins les latéraux) pubescents; lobes basaux des feuilles ne se chevauchant pas. 21
+Section Espèces rares et communes, non restreintes aux milieux sableux
 
-21. Feuilles glabres ou avec quelques poils épars apprimés sur la face adaxiale. 22
+4. Pétales glabres; généralement quelques feuilles avec lobes basaux se chevauchant espèce Viola selkirkii
 
-21'. Feuilles peu à densément pubescentes. 26
+4'. Pétales (au moins les latéraux) pubescents; lobes basaux des feuilles ne se chevauchant pas 5
 
-22. Poils sur les pétales latéraux nettement claviformes; fleurs dépassant largement les
-feuilles. espèce Viola cucullata
+5. Feuilles glabres ou avec quelques poils épars apprimés sur la face adaxiale; sépales non ciliés 6
 
-22'. Poils sur les pétales latéraux filiformes; fleurs plus ou moins au même niveau que les feuilles. 23
+5'. Feuilles peu à densément pubescentes; sépales avec ou sans cils aux marges 10
 
-23. Pétale éperonné glabre (moins de 5 poils). espèce Viola communis
+6. Poils sur les pétales latéraux courts (moins de 1 mm) et nettement claviformes; fleurs dépassant
+largement les feuilles espèce Viola cucullata
 
-23'. Pétale éperonnée densément pubescent (20 poils et +). 24
+6'. Poils sur les pétales latéraux longs (plus de 1.5 mm) et filiformes; fleurs plus ou moins au même
+niveau que les feuilles 7
 
-24. Feuilles printanières 1-1.2x plus longues que large, ovées ou orbiculaires, apex largement
-obtus. espèce Viola nephrophylla
+7. Pétale éperonné glabre (moins de 5 poils) espèce Viola communis
 
-24'. Feuilles printanières 1.5-3x plus longues que large à apex aigu à étroitement arrondi; feuilles d'été à
-peu près aussi larges que longues et largement ovale-triangulaire à apex aigu à obtus. 25
+7'. Pétale éperonné densément pubescent (20 poils et +) 8
 
-25. Sépales inférieurs oblongs et à apex étroitement obtus; capsules cléistogames glabres. Témiscouata. espèce Viola novae-angliae
+8. Feuilles printanières 1-1.2x plus longues que large, ovées ou orbiculaires, apex largement
+obtus espèce Viola nephrophylla
 
-25'. Sépales inférieurs oblongs-lancéolés à lancéolés et à apex aigu; capsules cléistogames généralement
-pubescentes. Vallée du Saint-Laurent. espèce Viola affinis
+8'. Feuilles printanières 1.5-3x plus longues que large à apex aigu à étroitement arrondi; feuilles d’été à
+peu près aussi larges que longues et largement ovale-triangulaires à apex aigu à obtus 9
 
-26. Feuilles printanières 1.8-3x plus longues que large. espèce Viola novae-angliae
+9. Sépales inférieurs oblongs et à apex étroitement obtus; capsules cléistogames glabres. Témiscouata. espèce Viola novae-angliae (en partie)
 
-26'. Feuilles printanières 0.8-1.2x plus longues que large. 27
+9'. Sépales inférieurs oblongs-lancéolés à lancéolés et à apex aigu; capsules cléistogames généralement
+pubescentes. Vallée du Saint-Laurent espèce Viola affinis
 
-27. Sépales généralement ciliés jusqu'à l'apex; pétale éperonné densément pubescent (20 poils et
-+). espèce Viola septentrionalis
+10. Feuilles printanières 1.8-3x plus longues que large espèce Viola novae-angliae (en partie)
 
-27'. Sépales ciliés seulement dans leur moitié inférieure, pétale éperonné glabre (moins de 5
-poils). espèce Viola sororia
+10'. Feuilles printanières 0.8-1.2x plus longues que large 11
 
+11. Sépales généralement ciliés jusqu’à l’apex; pétale éperonné densément pubescent (20 poils et +) espèce Viola septentrionalis
+
+11'. Sépales ciliés seulement dans leur moitié inférieure, pétale éperonné glabre (moins de 5
+poils) espèce Viola sororia
