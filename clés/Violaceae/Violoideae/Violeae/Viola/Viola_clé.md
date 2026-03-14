@@ -182,3 +182,5 @@ pubescentes. Vallée du Saint-Laurent espèce Viola affinis
 
 11'. Sépales ciliés seulement dans leur moitié inférieure, pétale éperonné glabre (moins de 5
 poils) espèce Viola sororia
+
+Auteurs: Marc-Aurèle Vallée, Étienne Lacroix-Carignan et Étienne Léveillé-Bourret
