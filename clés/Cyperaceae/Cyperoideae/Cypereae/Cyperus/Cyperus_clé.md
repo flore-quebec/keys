@@ -71,3 +71,5 @@ souchet hispide espèce Cyperus esculentus
 11'. Épillets très denses; écailles dorées et vertes, ± décidues (tombent séparément); rhizomes de moins de 5 cm
 sans tubercule; base de la tige gonflée formant un corme; feuilles planes; fréquente
 espèce Cyperus strigosus
+
+Auteur: Denis Paquette
